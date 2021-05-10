@@ -14,9 +14,9 @@
 ## Getting started
  
 * To install the dependencies:
->    $ npm install @material-ui/core @material-ui/icons axios react-multi-carousel react-responsive-carousel react-router-dom styled-components
+>    $ npm install @material-ui/core @material-ui/icons axios react-multi-carousel react-responsive-carousel react-router-dom styled-components --save
 * To install the dev dependencies:
->    $ npm install @material-ui/core @material-ui/icons axios react-multi-carousel react-responsive-carousel react-router-dom styled-components
+>    $ npm install gulp gulp-imagemin --save-dev
 * To run the project:
 >    $ npm react-scripts start
 * To run the Gulp:
